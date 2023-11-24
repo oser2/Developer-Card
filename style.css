@@ -1,0 +1,77 @@
+.card-body{
+    margin: 0 auto;
+    height: 500px;
+    width: 400px;
+}
+.card{
+    margin: -25px 0px 0px 0px;
+    width: 400px;
+    height: 400px;
+    background: rgb(255, 255, 255);
+    border-radius: 10px 10px 10px 10px;
+    box-shadow: 0 0 20px 0 black;
+}
+.text1{
+    line-height: 100px;
+    font-weight: 700;
+    color: rgb(53, 62, 164);
+    font-size: xx-large;
+    font-family: "Open Sans", sans-serif;
+    text-align: center;
+}
+.Dev-img{
+    display: block;
+    margin: 0 auto;
+}
+.front{
+    line-height: px;
+    font-weight: 300;
+    color: gray;
+    font-size: large;
+    font-family: "Open Sans", sans-serif;
+    text-align: center;
+}
+.social{
+    margin-left: 10px;
+    width: 380px;
+    background: #e9e5e5;
+    margin-top: 40px;
+    font-size: 20px;
+    color: rgb(19, 19, 20);
+    font-weight: 900;
+    text-align: center;
+    line-height: 50px;
+}
+.left-text{
+    margin: 11px -5px 2px 0px;
+    width: 49%;
+    display: inline-block;
+    font-size: 400;
+}
+.right-text{
+    display: inline-block;
+    width: 49%;
+    font-size: 400;
+}
+.social2{
+    margin-left: 10px;
+    width: 380px;
+    margin-top: 10px;
+    background: #e9e5e5;
+    font-size: 20px;
+    color: rgb(19, 19, 20);
+    font-weight: 900;
+    text-align: center;
+    line-height: 40px;
+}
+.social3{
+    margin-left: 10px;
+    width: 380px;
+    margin-top: 10px;
+    background: #e9e5e5;
+    font-size: 20px;
+    color: rgb(19, 19, 20);
+    font-weight: 900;
+    text-align: center;
+    line-height: 40px;
+}
